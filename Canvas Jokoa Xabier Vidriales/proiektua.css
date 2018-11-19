@@ -1,0 +1,25 @@
+#faded {
+	position:absolute;
+	top:10px;
+	left:100px;
+	height:45px;
+	width:45px;
+	background-color: Transparent;
+	border: none;
+}
+
+#foto {
+	position:absolute;
+	top:10px;
+	left:100px;
+	height:45px;
+	width:45px;
+	background-color: Transparent;
+	border: none;
+}
+
+canvas {
+	border: 1px solid black;
+	background: #353535;
+	margin-left: 0;
+	}
